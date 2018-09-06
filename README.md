@@ -1,4 +1,4 @@
-# Stock Tracker Course Projevt
+# Stock Tracker Course Project
 This application is a Java applet that allows a user to manage stocks and other users. It was created as a college course project to showcase the following Java skills:
 * GUI design
 * Database connectivity
