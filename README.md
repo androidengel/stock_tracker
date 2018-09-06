@@ -32,3 +32,5 @@ public StockTrackerDB() throws ClassNotFoundException, SQLException, IOException
 ```
 
 The url variable will need to be modified to the path of your Microsoft Access database. The application enters a default user with the username and password of "admin01."
+
+##### To view what the application does without cloning the project, please see the ApplicationScreenshots document.
